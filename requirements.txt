@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+httpx[http2]
+cryptography
+pydantic
